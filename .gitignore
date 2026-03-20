@@ -1,2 +1,4 @@
 .env
 /logs
+/src_test
+**/__pycache__/
